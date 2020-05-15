@@ -1,0 +1,289 @@
+Country of Origin,Block,Environment,Yield
+Chile _A,1,bad_1,4.36
+Chile _P,1,bad_1,2.76
+Columbia_A,1,bad_1,3.01
+Columbia_P,1,bad_1,2.5
+Peru_A,1,bad_1,3.85
+Peru_P,1,bad_1,2.21
+Spain_A,1,bad_1,4.97
+Spain_P,1,bad_1,3.45
+South Africa_A,1,bad_1,4.38
+South Africa_P,1,bad_1,3.24
+Zimbabwe_A,1,bad_1,4.47
+Zimbabwe_P,1,bad_1,2.44
+Chile _A,1,bad_2,2.03
+Chile _P,1,bad_2,1.09
+Columbia_A,1,bad_2,1.73
+Columbia_P,1,bad_2,0.03
+Peru_A,1,bad_2,2.12
+Peru_P,1,bad_2,0.84
+Spain_A,1,bad_2,1.83
+Spain_P,1,bad_2,1.46
+South Africa_A,1,bad_2,1.79
+South Africa_P,1,bad_2,0.78
+Zimbabwe_A,1,bad_2,1.73
+Zimbabwe_P,1,bad_2,1.15
+Chile _A,1,bad_3,4.19
+Chile _P,1,bad_3,4.31
+Columbia_A,1,bad_3,4.59
+Columbia_P,1,bad_3,4.13
+Peru_A,1,bad_3,4.31
+Peru_P,1,bad_3,3.83
+Spain_A,1,bad_3,4.31
+Spain_P,1,bad_3,3.94
+South Africa_A,1,bad_3,4.79
+South Africa_P,1,bad_3,3.99
+Zimbabwe_A,1,bad_3,4.44
+Zimbabwe_P,1,bad_3,3.88
+Chile _A,1,pap_1,4.84
+Chile _P,1,pap_1,3.25
+Columbia_A,1,pap_1,3.98
+Columbia_P,1,pap_1,2.64
+Peru_A,1,pap_1,5
+Peru_P,1,pap_1,3.46
+Spain_A,1,pap_1,4.88
+Spain_P,1,pap_1,3.82
+South Africa_A,1,pap_1,3.99
+South Africa_P,1,pap_1,4.14
+Zimbabwe_A,1,pap_1,4.27
+Zimbabwe_P,1,pap_1,3.12
+Chile _A,1,pap_2,2.05
+Chile _P,1,pap_2,1.16
+Columbia_A,1,pap_2,2.01
+Columbia_P,1,pap_2,0.9
+Peru_A,1,pap_2,2.38
+Peru_P,1,pap_2,0.97
+Spain_A,1,pap_2,2.36
+Spain_P,1,pap_2,1.62
+South Africa_A,1,pap_2,2.31
+South Africa_P,1,pap_2,0.75
+Zimbabwe_A,1,pap_2,2.09
+Zimbabwe_P,1,pap_2,1
+Chile _A,1,pap_3,4.77
+Chile _P,1,pap_3,4.5
+Columbia_A,1,pap_3,4.03
+Columbia_P,1,pap_3,4.36
+Peru_A,1,pap_3,4.6
+Peru_P,1,pap_3,4.07
+Spain_A,1,pap_3,4.31
+Spain_P,1,pap_3,4.17
+South Africa_A,1,pap_3,4.4
+South Africa_P,1,pap_3,4.25
+Zimbabwe_A,1,pap_3,4.71
+Zimbabwe_P,1,pap_3,3.98
+Chile _A,2,bad_1,4
+Chile _P,2,bad_1,2.64
+Columbia_A,2,bad_1,3.32
+Columbia_P,2,bad_1,1.79
+Peru_A,2,bad_1,3.85
+Peru_P,2,bad_1,2.24
+Spain_A,2,bad_1,3.98
+Spain_P,2,bad_1,2.94
+South Africa_A,2,bad_1,4.01
+South Africa_P,2,bad_1,3.6
+Zimbabwe_A,2,bad_1,3.94
+Zimbabwe_P,2,bad_1,2.34
+Chile _A,2,bad_2,2.44
+Chile _P,2,bad_2,1.46
+Columbia_A,2,bad_2,1.66
+Columbia_P,2,bad_2,1.11
+Peru_A,2,bad_2,1.75
+Peru_P,2,bad_2,0.83
+Spain_A,2,bad_2,1.93
+Spain_P,2,bad_2,1.51
+South Africa_A,2,bad_2,2.18
+South Africa_P,2,bad_2,0.95
+Zimbabwe_A,2,bad_2,2.37
+Zimbabwe_P,2,bad_2,1.04
+Chile _A,2,bad_3,4.44
+Chile _P,2,bad_3,3.98
+Columbia_A,2,bad_3,4.42
+Columbia_P,2,bad_3,4.11
+Peru_A,2,bad_3,2.53
+Peru_P,2,bad_3,2.9
+Spain_A,2,bad_3,3.87
+Spain_P,2,bad_3,4.01
+South Africa_A,2,bad_3,4.22
+South Africa_P,2,bad_3,3.91
+Zimbabwe_A,2,bad_3,3.14
+Zimbabwe_P,2,bad_3,3.39
+Chile _A,2,pap_1,5.36
+Chile _P,2,pap_1,3.47
+Columbia_A,2,pap_1,4
+Columbia_P,2,pap_1,2.67
+Peru_A,2,pap_1,5.42
+Peru_P,2,pap_1,3.16
+Spain_A,2,pap_1,5.3
+Spain_P,2,pap_1,3.81
+South Africa_A,2,pap_1,4.24
+South Africa_P,2,pap_1,4.16
+Zimbabwe_A,2,pap_1,4.87
+Zimbabwe_P,2,pap_1,3
+Chile _A,2,pap_2,2.5
+Chile _P,2,pap_2,1.5
+Columbia_A,2,pap_2,2.19
+Columbia_P,2,pap_2,1.04
+Peru_A,2,pap_2,2.42
+Peru_P,2,pap_2,0.98
+Spain_A,2,pap_2,1.63
+Spain_P,2,pap_2,1.73
+South Africa_A,2,pap_2,2.04
+South Africa_P,2,pap_2,0.73
+Zimbabwe_A,2,pap_2,2.39
+Zimbabwe_P,2,pap_2,0.76
+Chile _A,2,pap_3,3.86
+Chile _P,2,pap_3,4.35
+Columbia_A,2,pap_3,4.25
+Columbia_P,2,pap_3,4.1
+Peru_A,2,pap_3,3.61
+Peru_P,2,pap_3,3.93
+Spain_A,2,pap_3,4.16
+Spain_P,2,pap_3,4.51
+South Africa_A,2,pap_3,3.88
+South Africa_P,2,pap_3,3.82
+Zimbabwe_A,2,pap_3,3.59
+Zimbabwe_P,2,pap_3,3.47
+Chile _A,3,bad_1,4.23
+Chile _P,3,bad_1,2.25
+Columbia_A,3,bad_1,3.27
+Columbia_P,3,bad_1,1.57
+Peru_A,3,bad_1,3.98
+Peru_P,3,bad_1,2.05
+Spain_A,3,bad_1,4.39
+Spain_P,3,bad_1,3.12
+South Africa_A,3,bad_1,3.94
+South Africa_P,3,bad_1,3.16
+Zimbabwe_A,3,bad_1,4.21
+Zimbabwe_P,3,bad_1,2
+Chile _A,3,bad_2,2.75
+Chile _P,3,bad_2,1.55
+Columbia_A,3,bad_2,3.04
+Columbia_P,3,bad_2,1.11
+Peru_A,3,bad_2,2.27
+Peru_P,3,bad_2,1.03
+Spain_A,3,bad_2,2.7
+Spain_P,3,bad_2,1.85
+South Africa_A,3,bad_2,2.2
+South Africa_P,3,bad_2,1.11
+Zimbabwe_A,3,bad_2,2.02
+Zimbabwe_P,3,bad_2,1.11
+Chile _A,3,bad_3,3.53
+Chile _P,3,bad_3,4.15
+Columbia_A,3,bad_3,4.35
+Columbia_P,3,bad_3,3.57
+Peru_A,3,bad_3,4.93
+Peru_P,3,bad_3,3.91
+Spain_A,3,bad_3,4.48
+Spain_P,3,bad_3,3.68
+South Africa_A,3,bad_3,4.53
+South Africa_P,3,bad_3,3.17
+Zimbabwe_A,3,bad_3,4.09
+Zimbabwe_P,3,bad_3,3.39
+Chile _A,3,pap_1,4.34
+Chile _P,3,pap_1,3.42
+Columbia_A,3,pap_1,3.76
+Columbia_P,3,pap_1,2.33
+Peru_A,3,pap_1,4.75
+Peru_P,3,pap_1,3.55
+Spain_A,3,pap_1,4.59
+Spain_P,3,pap_1,3.77
+South Africa_A,3,pap_1,3.65
+South Africa_P,3,pap_1,4.22
+Zimbabwe_A,3,pap_1,4.34
+Zimbabwe_P,3,pap_1,3.28
+Chile _A,3,pap_2,2.64
+Chile _P,3,pap_2,1.57
+Columbia_A,3,pap_2,2.38
+Columbia_P,3,pap_2,1.09
+Peru_A,3,pap_2,2.91
+Peru_P,3,pap_2,0.79
+Spain_A,3,pap_2,2.35
+Spain_P,3,pap_2,1.88
+South Africa_A,3,pap_2,2.6
+South Africa_P,3,pap_2,0.9
+Zimbabwe_A,3,pap_2,2.25
+Zimbabwe_P,3,pap_2,0.91
+Chile _A,3,pap_3,3.25
+Chile _P,3,pap_3,4.35
+Columbia_A,3,pap_3,3.85
+Columbia_P,3,pap_3,3.86
+Peru_A,3,pap_3,4.93
+Peru_P,3,pap_3,4.09
+Spain_A,3,pap_3,3.98
+Spain_P,3,pap_3,4.75
+South Africa_A,3,pap_3,4.85
+South Africa_P,3,pap_3,3.91
+Zimbabwe_A,3,pap_3,3.59
+Zimbabwe_P,3,pap_3,3.7
+Chile _A,4,bad_1,3.83
+Chile _P,4,bad_1,2.38
+Columbia_A,4,bad_1,3.4
+Columbia_P,4,bad_1,1.77
+Peru_A,4,bad_1,3.68
+Peru_P,4,bad_1,2.5
+Spain_A,4,bad_1,4.14
+Spain_P,4,bad_1,2.69
+South Africa_A,4,bad_1,2.99
+South Africa_P,4,bad_1,3.08
+Zimbabwe_A,4,bad_1,3.93
+Zimbabwe_P,4,bad_1,1.71
+Chile _A,4,bad_2,2.14
+Chile _P,4,bad_2,1.23
+Columbia_A,4,bad_2,2.03
+Columbia_P,4,bad_2,1.14
+Peru_A,4,bad_2,2.16
+Peru_P,4,bad_2,1.19
+Spain_A,4,bad_2,1.96
+Spain_P,4,bad_2,1.73
+South Africa_A,4,bad_2,1.61
+South Africa_P,4,bad_2,1.12
+Zimbabwe_A,4,bad_2,1.95
+Zimbabwe_P,4,bad_2,1.42
+Chile _A,4,bad_3,4.34
+Chile _P,4,bad_3,4.37
+Columbia_A,4,bad_3,4.17
+Columbia_P,4,bad_3,3.65
+Peru_A,4,bad_3,5.05
+Peru_P,4,bad_3,2.39
+Spain_A,4,bad_3,3.95
+Spain_P,4,bad_3,4.09
+South Africa_A,4,bad_3,4.48
+South Africa_P,4,bad_3,3.85
+Zimbabwe_A,4,bad_3,4.44
+Zimbabwe_P,4,bad_3,3.44
+Chile _A,4,pap_1,3.99
+Chile _P,4,pap_1,3.15
+Columbia_A,4,pap_1,3.65
+Columbia_P,4,pap_1,2.44
+Peru_A,4,pap_1,5.04
+Peru_P,4,pap_1,2.91
+Spain_A,4,pap_1,4.68
+Spain_P,4,pap_1,3.48
+South Africa_A,4,pap_1,3.94
+South Africa_P,4,pap_1,3.67
+Zimbabwe_A,4,pap_1,4.53
+Zimbabwe_P,4,pap_1,2.98
+Chile _A,4,pap_2,2.45
+Chile _P,4,pap_2,1.39
+Columbia_A,4,pap_2,2.35
+Columbia_P,4,pap_2,0.91
+Peru_A,4,pap_2,3.03
+Peru_P,4,pap_2,0.79
+Spain_A,4,pap_2,2.17
+Spain_P,4,pap_2,1.76
+South Africa_A,4,pap_2,1.99
+South Africa_P,4,pap_2,0.91
+Zimbabwe_A,4,pap_2,2.33
+Zimbabwe_P,4,pap_2,1.08
+Chile _A,4,pap_3,3.52
+Chile _P,4,pap_3,4.07
+Columbia_A,4,pap_3,4.15
+Columbia_P,4,pap_3,3.89
+Peru_A,4,pap_3,5.53
+Peru_P,4,pap_3,3.96
+Spain_A,4,pap_3,4.37
+Spain_P,4,pap_3,4.62
+South Africa_A,4,pap_3,3.81
+South Africa_P,4,pap_3,3.6
+Zimbabwe_A,4,pap_3,5.4
+Zimbabwe_P,4,pap_3,3.36
